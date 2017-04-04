@@ -4,5 +4,5 @@
   <artifactId>github-sync-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Test github sync</name>
-  <description>project created to demostrate github and gitlab sync</description>
+  <description>Project created to demostrate github and gitlab sync</description>
 </project>
