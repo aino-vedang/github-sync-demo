@@ -3,6 +3,6 @@
   <groupId>com.ainosoft</groupId>
   <artifactId>github-sync-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Test gitlab sync</name>
+  <name>Test github sync</name>
   <description>Project created to demostrate github and gitlab sync</description>
 </project>
